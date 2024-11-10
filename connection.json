@@ -1,0 +1,9 @@
+{
+    "account"   : "sz52381.central-india.azure",
+    "user"      : "pranilrp",
+    "password"  : "Citi10bank#",
+    "role"      : "SYSADMIN",
+    "warehouse" : "COMPUTE_WH",
+    "database"  : "DEMODB",
+    "schema"    : "DEV"
+  }
