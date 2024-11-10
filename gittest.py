@@ -6,7 +6,7 @@ import json
 
 def hello(session: Session) -> DataFrame:
     df = session.table("demodb.dev.customers")
-    #df = df.groupBy("STATE").count()
+    df = df.groupBy("STATE").count()
     return df
 
 # For local debugging
